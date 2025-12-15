@@ -1,0 +1,18 @@
+Domande orale ingegneria del software:
+
+- Observer
+- Si può rimuovere il collegamento tra ConcreteObserver e ConcreteSubject?
+- Categorie di manutenzione
+- XP
+- Decorator
+- Ordine chiamata nei metodi con Decorator
+- istanzuazione oggetto con DP Decorstor
+- Factory methods
+- Object pool
+- Thread
+- Modello a cascata
+- DP State
+- Libreria Class di Java
+- Singleton
+- Cos'è la Complessità Ciclomatica
+- stream Java 8
