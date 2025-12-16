@@ -9,5 +9,6 @@ https://alpinelinux.org/downloads/
 Messaggio su telegram di Santoro: 
 "iniziate a scaricare la standard edition seguendo la vostra architettura"
 
-
+Una repository ben fornita, con altro materiale è:
+https://github.com/LorenzoMaci/Reti-di-Calcolatori.git
 
