@@ -1,0 +1,19 @@
+Punto A - Parametri inseriti: min=8, max=10, n=12
+
+Punto B:
+oeiuuooa
+oaoauooeoa
+eooieoiu
+aeiiaoau
+aieeueeuai
+ouaeeooa
+uoiiiiei
+iauueoeiii
+oauoaeeie
+eeuuiuiea
+iouaauoo
+iuaiieuee
+
+Punto C: oeiuuooaoaoauooeoaeooieoiuaeiiaoauaieeueeuaiouaeeooauoiiiieiiauueoeiiioauoaeeieeeuuiuieaiouaauooiuaiieuee
+
+Punto D: oeiuuooaoaoauooeoaeooieoiuaeiiaoauaiee*ee*aiouaeeooauoiiiieiiauueoeiiioauoaeeieee*uiuieaiouaauooiuaiie*ee

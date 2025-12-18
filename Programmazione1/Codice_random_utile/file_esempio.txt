@@ -1,0 +1,1 @@
+Questo è un esempio di una stringa scritta in un file.
