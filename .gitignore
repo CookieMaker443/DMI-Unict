@@ -1,2 +1,18 @@
 *.png
+*.dll
+*.properties
+*.log
+*.exe
+*.jsa
+*.access
+*.template
+*.key
+*.crt
+*.der
+*.policy
+*.security
+*.jmod
+*.jar
+*.dat
+
 
